@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
+/*font-family: "Tagesschrift", system-ui;*/
+
+body{
+    font-family: "Tagesschrift", system-ui;
+    background-color: rgb(243, 242, 221);
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+    font-size: 60px;
+    
+}
+
+h2{
+    color: rgb(255, 134, 90);
+    text-align: center;
+
+}
+
+h3{
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: darkslategray;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.p-footer {
+    color: black;
+}
+
+.nav-li {
+    list-style-type: none;
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ 
+.quienes-somos{
+    width: 500px;
+    
+}
